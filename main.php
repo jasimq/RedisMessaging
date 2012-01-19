@@ -2,6 +2,7 @@
 
 include('validation.php');
 include('request.php');
+include('redis_config.php');
 
 #REDIS key formats
 #user to user conversation: user-#-conversation-user-list -> user_id
