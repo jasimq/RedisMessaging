@@ -1,0 +1,8 @@
+Simple user-to-user messaging using Redis
+
+Currently supports:
+- Sending messages using user id identifiers
+- Store list of conversations per user
+- Persistent conversation messages
+- Keeping track of new conversations count
+- Clear new conversation count
