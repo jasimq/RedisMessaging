@@ -7,4 +7,4 @@ Currently supports:
 - Keeping track of new conversations count
 - Clear new conversation count
 
-Note: This code used predis, the Redis client for PHP. You can get it here: https://github.com/nrk/predis
+Note: This code uses predis, the Redis client for PHP. You can get it here: https://github.com/nrk/predis
